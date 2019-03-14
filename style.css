@@ -1,0 +1,56 @@
+.dictionary-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.dictionary-column {
+  width: 50%;
+  height: 15rem;
+  float: left;
+  margin: 0;
+  border: none;
+  padding: 0;
+  background-color: #ccc;
+}
+
+.dictionary-column:hover {
+  background-color: #dd1818;
+}
+
+.dictionary-container2 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.dictionary-column2 {
+  width: 50%;
+  height: 15rem;
+  float: left;
+  margin: 0;
+  border: none;
+  padding: 0;
+  background-color: #ccc;
+}
+
+.dictionary-column2:hover {
+  background-color: #434343;
+}
+
+.dictionary-container3 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.dictionary-column3 {
+  width: 50%;
+  height: 15rem;
+  float: left;
+  margin: 0;
+  border: none;
+  padding: 0;
+  background-color: #ccc;
+}
+
+.dictionary-column3:hover {
+  background-color: green;
+}
